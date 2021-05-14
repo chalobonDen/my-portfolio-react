@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.social a:hover {
+  color: #5f9595;
+}
